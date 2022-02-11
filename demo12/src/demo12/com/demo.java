@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	public void m1()
 	{
 	System.out.println("method m1 added");	
+	System.out.println("m1 added");		
 	}
 	
 }
